@@ -28,9 +28,7 @@ jobs:
 
           - platform: ds920p
             version: 7.0.1-42218
-          - platform: ds920p
-            version: 7.1.0-42661
-
+      
 
 
     steps:
